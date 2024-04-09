@@ -1,4 +1,4 @@
-# Litepaper 
+# ENTROPY{labs} Litepaper 
 
 ## Paragon: Leveraging Layer-2 Architecture for Flexible and Secure AI Verification
 
