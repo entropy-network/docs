@@ -1,3 +1,5 @@
+# Litepaper 
+
 ## Paragon: Leveraging Layer-2 Architecture for Flexible and Secure AI Verification
 
 ### The Advantages of a Layer-2 Solution
