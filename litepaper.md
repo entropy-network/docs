@@ -2,6 +2,11 @@
 
 ## Paragon: Leveraging Layer-2 Architecture for Flexible and Secure AI Verification
 
+### Introduction
+Entropy Labs is building Paragon, the first decentralized platform for secure AI verification using a novel Layer-2 blockchain architecture. Paragon pioneers a novel application of blockchain technology to fulfill the critical need for trustless, transparent verification of AI models. By focusing on this essential use case, Paragon empowers responsible AI development and deployment, ensuring the integrity and safety of AI systems in an increasingly AI-driven world.
+
+We are not building AI, we are securing and verifying it.
+
 ### The Advantages of a Layer-2 Solution
 
 Paragon's choice to build on a Layer-2 architecture offers several significant advantages over traditional Layer-1 blockchain solutions. By leveraging the security, scalability, and liquidity of established Layer-1 networks, Paragon can focus on its core mission of providing decentralized AI verification without the burdens and limitations of building a new Layer-1 blockchain from scratch.
